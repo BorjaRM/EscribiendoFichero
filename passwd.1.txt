@@ -1,0 +1,13 @@
+armando:$2GHbj/ulcyWucgJI8wyD91:500:100:Armando:/home/armando:/bin/bash
+juan:$eHfuhfrio4kEtz8t3GZr3efxqOsc83214.:501:100:Juan:/home/juan:/bin/bash
+jose:$818f1a4597bf48c2d52c7735f013aee1:502:100:Jose:/home/jose:/bin/bash
+marta:$a30deedb8a60a24af01b41b8d4d58bb7:503:100:Marta:/home/marta:/bin/bash
+raquel:$KcfL/kHwXbY4Gf8Ixvmeq04fa0d80:504:100:Raquel:/home/raquel:/bin/bash
+ana:$f4zp3/4Hw1TOmdsdu760x2X3be46OgRP0:505:100:Ana:/home/ana:/bin/bash
+pedro:$64d9b10da6672c5df1631cbba0683f91:506:100:Pedro:/home/pedro:/bin/bash
+laura:$f5903cd4le9idf367d095b47b1aa50da41be79:507:100:Laura:/home/laura:/bin/bash
+roberto:$5ae9479e25bf542163dc533fa4428f91:508:100:Roberto:/home/roberto:/bin/bash
+luis:$OK3t9S1s445nj3c4601dczcPjYwq.nIP1:509:100:Luis:/home/luis:/bin/bash
+isabel:$cfb86bb6313c9cad6567905674d62563:510:100:Isabel:/home/isabel:/bin/bash
+julio:$vPT.VeQa0Wfyhr4e1rWRdk7fmzh0:511:100:Julio:/home/julio:/bin/bash
+anabel:$8zRH7BsyUd4YAxq/fMhZs.:512:100:Anabel:/home/anabel:/bin/bash
